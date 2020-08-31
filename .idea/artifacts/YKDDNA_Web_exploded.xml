@@ -8,8 +8,8 @@
           <element id="module-output" name="YKDDNA" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="mysql-connector-java-8.0.13" />
           <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.13" />
         </element>
       </element>
     </root>

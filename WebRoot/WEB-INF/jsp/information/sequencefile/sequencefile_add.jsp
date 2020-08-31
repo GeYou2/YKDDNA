@@ -53,6 +53,11 @@
             </div>
         </div>
     </div>
+    <div class="center" style="margin-top: 25px">
+        <a class="btn btn-mini btn-danger" style="width: 47px; height: 32px; padding: 0px;line-height: 32px;border-width: 3px;font-size: 14px;" onclick="top.Dialog.close();">取消</a>
+        <a class="btn btn-mini btn-success" style="width: 78px; height: 32px; padding: 0px;line-height: 32px;border-width: 3px;font-size: 14px;" onclick="window.location.href='<%=basePath%>/sequencefile/downExcel.do'">下载模版</a>
+    </div>
+    <%--<a class="btn btn-mini btn-success" onclick="window.location.href='<%=basePath%>/sequencefile/downExcel.do'">下载模版</a>--%>
 
 </div>
 
